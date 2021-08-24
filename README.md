@@ -3,4 +3,4 @@ DACC web application
 
 Editor/Developer: Landon Dicke
 
-This is my first application for App/Dev 1
+This is my first web application for App/Dev 1
