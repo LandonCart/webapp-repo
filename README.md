@@ -7,4 +7,4 @@ This is my first web application for App/Dev 1
 
 ## sub header 1
 
-I am going to add am index.html file soon!
+Hey people
